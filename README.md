@@ -1,0 +1,1 @@
+Hey there 👋! This repository contains my personal projects.This repository contains my personal projects. Most of the projects apply mathematics and data science to solve real-world problems 📊. I aim to develop many more projects of this kind.
